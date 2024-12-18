@@ -91,9 +91,9 @@ Bu repo, **Murat Yücedağ**'ın eğitmenliğinde gerçekleştirilen **C# Eğiti
 - **Amaç:** Veritabanı işlemleri yapmayı öğrenmek
 - **Detaylar:**
   - Veritabanı üzerinde kategori ve ürün ekleme, listeleme, güncelleme ve silme işlemlerini gerçekleştirdim.
-- SqlConnection ve SqlCommand sınıflarını kullanarak veritabanı bağlantısı kurmayı öğrendim.
-- CRUD işlemlerinin temelini kavrayarak pratik kazandım.
-💾 Veritabanı ile gerçek hayat uygulamalarına yönelik temel bilgiler edindim.
+  - SqlConnection ve SqlCommand sınıflarını kullanarak veritabanı bağlantısı kurmayı öğrendim.
+  - CRUD işlemlerinin temelini kavrayarak pratik kazandım.
+-💾 Veritabanı ile gerçek hayat uygulamalarına yönelik temel bilgiler edindim.
 
 ---
 
