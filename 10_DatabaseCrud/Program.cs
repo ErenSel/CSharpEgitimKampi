@@ -104,26 +104,26 @@ namespace _10_DatabaseCrud
 
             #region Ürün Güncelleme işlemi
 
-            Console.Write("Güncellenecek ürün ID: ");
-            int productId = int.Parse(Console.ReadLine());
-            Console.Write("Güncellenecek ürün adı: ");
-            string productName = Console.ReadLine();
-            Console.Write("Güncellenecek ürün fiyatı: ");
-            decimal productPrice = decimal.Parse(Console.ReadLine());
+            //Console.Write("Güncellenecek ürün ID: ");
+            //int productId = int.Parse(Console.ReadLine());
+            //Console.Write("Güncellenecek ürün adı: ");
+            //string productName = Console.ReadLine();
+            //Console.Write("Güncellenecek ürün fiyatı: ");
+            //decimal productPrice = decimal.Parse(Console.ReadLine());
 
-            SqlConnection connection = new SqlConnection("Data Source=ERENSEL\\SQLEXPRESS;initial Catalog=EgitimKampiDb;integrated security=true");
-            connection.Open();
+            //SqlConnection connection = new SqlConnection("Data Source=ERENSEL\\SQLEXPRESS;initial Catalog=EgitimKampiDb;integrated security=true");
+            //connection.Open();
 
-            SqlCommand command = new SqlCommand("Update TblProduct Set ProductName = @produtctNamei ProductPrice = @productPrice, Where ProductID = @productId", connection);
-            command.Parameters.AddWithValue("@productName", productName);
-            command.Parameters.AddWithValue("@productPrice", productPrice);
-            command.Parameters.AddWithValue("@productId", productId);
-            command.ExecuteNonQuery();
+            //SqlCommand command = new SqlCommand("Update TblProduct Set ProductName = @produtctNamei ProductPrice = @productPrice, Where ProductID = @productId", connection);
+            //command.Parameters.AddWithValue("@productName", productName);
+            //command.Parameters.AddWithValue("@productPrice", productPrice);
+            //command.Parameters.AddWithValue("@productId", productId);
+            //command.ExecuteNonQuery();
             
 
-            connection.Close();
+            //connection.Close();
 
-            Console.WriteLine("Güncelleme başarılı");
+            //Console.WriteLine("Güncelleme başarılı");
 
 
 
