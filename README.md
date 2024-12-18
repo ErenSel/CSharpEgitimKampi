@@ -87,5 +87,15 @@ Bu repo, **Murat Yücedağ**'ın eğitmenliğinde gerçekleştirilen **C# Eğiti
 
 ---
 
+## ✨ Proje 10: Veritabanı Tabanlı CRUD İşlemleri
+- **Amaç:** Veritabanı işlemleri yapmayı öğrenmek
+- **Detaylar:**
+  - Veritabanı üzerinde kategori ve ürün ekleme, listeleme, güncelleme ve silme işlemlerini gerçekleştirdim.
+- SqlConnection ve SqlCommand sınıflarını kullanarak veritabanı bağlantısı kurmayı öğrendim.
+- CRUD işlemlerinin temelini kavrayarak pratik kazandım.
+💾 Veritabanı ile gerçek hayat uygulamalarına yönelik temel bilgiler edindim.
+
+---
+
 Bu projeler sayesinde **C#** programlama dilinin temel kavramlarını öğrenip pratik yaptım. Her bir proje, gerçek dünya senaryolarına uyarlanabilir uygulamalar geliştirme yeteneğimi artırdı. 🚀
 
